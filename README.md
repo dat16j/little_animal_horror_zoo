@@ -1,17 +1,5 @@
 # Exercise: Little Animal Horror Zoo
 
-## Exercise solution: Little Animal Horror Zoo 
-* java files
-  * [Game.java](https://github.com/dat16j/little_animal_horror_zoo/blob/master/Game.java)
-  * [Rabbit.java](https://github.com/dat16j/little_animal_horror_zoo/blob/master/Rabbit.java) 
-  * [Snake.java](https://github.com/dat16j/little_animal_horror_zoo/blob/master/Snake.java)
-* class diagram
-  * [Class Diagram](https://github.com/dat16j/little_animal_horror_zoo/blob/master/class_diagram_horror_zoo_game.png)
-
-
-# Exercise Description
-## Exercise: Little Animal Horror Zoo
-
 Imagine that you are designing a computer game. The game is text based, meaning that no graphics are involved, so only a text story printed in the console.
 
 The game is at the moment not able to take any instructions from the person who plays the game (you), but it can only do what you will code it to do. You can think of it as a “Demo” game that shows how it could be played, but in fact are not playable yet.
